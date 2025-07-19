@@ -7,7 +7,7 @@ from core.database import add_chapter_version, semantic_search
 def setup_llm():
     """Configures the Gemini API and returns the model."""
 
-    api_key = ""
+    api_key = "" # I hardcoded the api logic as my os wasn't retrieving the right env path despite setx command.
     
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel('gemini-1.5-flash')
