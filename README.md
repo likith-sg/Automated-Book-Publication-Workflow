@@ -22,7 +22,7 @@ This project is an end-to-end system designed to automate the initial stages of 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/likith-sg/Automated-Book-Publication-Workflow.git](https://github.com/likith-sg/Automated-Book-Publication-Workflow.git)
+    git clone https://github.com/likith-sg/Automated-Book-Publication-Workflow.git
     cd Automated-Book-Publication-Workflow
     ```
 
